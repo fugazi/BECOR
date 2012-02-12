@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Website/Paginas/Administracion/Claves/AdminRecuperarClave.aspx" hash="988a589d1" filehash="391083bb32d92bee" flags="110000" assembly="App_Web_tosehuze" type="ASP.paginas_administracion_claves_adminrecuperarclave_aspx">
+    <filedeps>
+        <filedep name="/Website/Paginas/Administracion/Claves/AdminRecuperarClave.aspx" />
+        <filedep name="/Website/Paginas/Administracion/Claves/AdminRecuperarClave.aspx.cs" />
+    </filedeps>
+</preserve>

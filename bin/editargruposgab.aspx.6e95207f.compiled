@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Website/Paginas/Administracion/Gabinetes/EditarGruposGab.aspx" hash="988a589d1" filehash="e5863d2a403c2cbe" flags="110000" assembly="App_Web_qtdceikn" type="ASP.paginas_administracion_gabinetes_editargruposgab_aspx">
+    <filedeps>
+        <filedep name="/Website/Paginas/Administracion/Gabinetes/EditarGruposGab.aspx" />
+        <filedep name="/Website/Paginas/Administracion/Gabinetes/EditarGruposGab.aspx.cs" />
+        <filedep name="/Website/Paginas/MasterPage.master" />
+        <filedep name="/Website/Paginas/MasterPage.master.cs" />
+    </filedeps>
+</preserve>

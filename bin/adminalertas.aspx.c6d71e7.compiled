@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Website/Paginas/Administracion/Usuarios/AdminAlertas.aspx" hash="988a589d1" filehash="813e9495530517d5" flags="110000" assembly="App_Web_ue4ezljr" type="ASP.paginas_administracion_usuarios_adminalertas_aspx">
+    <filedeps>
+        <filedep name="/Website/Paginas/Administracion/Usuarios/AdminAlertas.aspx" />
+        <filedep name="/Website/Paginas/Administracion/Usuarios/AdminAlertas.aspx.cs" />
+        <filedep name="/Website/Paginas/MasterPage.master" />
+        <filedep name="/Website/Paginas/MasterPage.master.cs" />
+    </filedeps>
+</preserve>

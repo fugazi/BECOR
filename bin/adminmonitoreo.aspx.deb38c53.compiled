@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Website/Paginas/Administracion/Monitoreo/AdminMonitoreo.aspx" hash="988a589d1" filehash="d38fe1738accfb5a" flags="110000" assembly="App_Web_wherxxcq" type="ASP.paginas_administracion_monitoreo_adminmonitoreo_aspx">
+    <filedeps>
+        <filedep name="/Website/Paginas/Administracion/Monitoreo/AdminMonitoreo.aspx" />
+        <filedep name="/Website/Paginas/Administracion/Monitoreo/AdminMonitoreo.aspx.cs" />
+    </filedeps>
+</preserve>

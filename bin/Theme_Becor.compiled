@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Website/App_Themes/Becor/" hash="988a589d1" filehash="910cbab411edc46" flags="110000" assembly="App_Theme_Becor" type="ASP.Becor">
+    <filedeps>
+        <filedep name="/Website/App_Themes/Becor/" />
+    </filedeps>
+</preserve>

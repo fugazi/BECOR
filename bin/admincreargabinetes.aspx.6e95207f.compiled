@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Website/Paginas/Administracion/Gabinetes/AdminCrearGabinetes.aspx" hash="988a589d1" filehash="a0e776994f14823c" flags="110000" assembly="App_Web_qtdceikn" type="ASP.paginas_administracion_gabinetes_admincreargabinetes_aspx">
+    <filedeps>
+        <filedep name="/Website/Paginas/Administracion/Gabinetes/AdminCrearGabinetes.aspx" />
+        <filedep name="/Website/Paginas/Administracion/Gabinetes/AdminCrearGabinetes.aspx.cs" />
+        <filedep name="/Website/Paginas/MasterPage.master" />
+        <filedep name="/Website/Paginas/MasterPage.master.cs" />
+    </filedeps>
+</preserve>

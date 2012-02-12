@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Website/Paginas/InicioSesion.aspx" hash="988a589d1" filehash="cd990c5061a" flags="110000" assembly="App_Web_foerhfyq" type="ASP.paginas_iniciosesion_aspx">
+    <filedeps>
+        <filedep name="/Website/Paginas/InicioSesion.aspx" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Website/Paginas/Administracion/MRoles.aspx" hash="988a589d1" filehash="28b225f97a2c4973" flags="110000" assembly="App_Web_w-tyl_pb" type="ASP.paginas_administracion_mroles_aspx">
+    <filedeps>
+        <filedep name="/Website/Paginas/Administracion/MRoles.aspx" />
+        <filedep name="/Website/Paginas/Administracion/MRoles.aspx.cs" />
+        <filedep name="/Website/Paginas/MasterPage.master" />
+        <filedep name="/Website/Paginas/MasterPage.master.cs" />
+    </filedeps>
+</preserve>

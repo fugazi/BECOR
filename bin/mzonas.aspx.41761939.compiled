@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Website/Paginas/Administracion/MZonas.aspx" hash="988a589d1" filehash="9a1dda90b17ba304" flags="110000" assembly="App_Web_w-tyl_pb" type="ASP.paginas_administracion_mzonas_aspx">
+    <filedeps>
+        <filedep name="/Website/Paginas/Administracion/MZonas.aspx" />
+        <filedep name="/Website/Paginas/Administracion/MZonas.aspx.cs" />
+        <filedep name="/Website/Paginas/MasterPage.master" />
+        <filedep name="/Website/Paginas/MasterPage.master.cs" />
+    </filedeps>
+</preserve>
